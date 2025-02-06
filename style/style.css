@@ -1,0 +1,18 @@
+#sign{
+    /* padding: 24px 160px 24px 160px; */
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+#hero{
+    display: flex;
+    border: 2px solid red;
+    /* margin: 60px 110px 60px 110px; */
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    /* padding: 40px 70px 40px 70px; */
+    /* padding: 24px 160px 24px 160px; */
+    gap: 64;
+    justify-content: space-between;
+}
