@@ -111,7 +111,7 @@ body{
 .son-3-2{
     /* border: 2px solid red; */
     display: flex;
-    gap: 20px;
+    gap: 30px;
 }
 .son-3-0{
     font-size: 20px;
@@ -168,4 +168,27 @@ body{
     font-size: 25px;
     border: none;
     color: white;
+}
+
+.son-3-6{
+    margin-top: 30px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 48px 24px 48px 24px;
+    font-size: 20px;
+}
+.son-3-6-1{
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+    padding: 20px 0px;
+    color: rgba(128, 128, 128, 0.836);
+}
+.son-3-6-1-0{
+    color: rgba(128, 128, 128, 0.836);
+}
+.yunus{
+    margin-top: 15px;
+    color: rgba(0, 0, 0, 0.678);
 }
