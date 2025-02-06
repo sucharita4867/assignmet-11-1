@@ -9,12 +9,15 @@ body{
     width: 85vw;
     background-color: rgba(121, 117, 117, 0.164);
 }
+.peragraph{
+    color: rgba(128, 128, 128, 0.699);
+}
 #navber{
     display: flex;
     justify-content: space-between;
     font-family: Fira Sans;
     align-items: center;
-    font-size: 25px;
+    font-size: 35px;
 }
 .button{
     padding: 10px 20px;
@@ -23,6 +26,7 @@ body{
     border-color: rgb(0, 106, 80);
     color: rgb(0, 106, 80);
     background-color: white;
+    font-size: 35px;
 }
 /* header section style */
 #hero{
@@ -35,7 +39,7 @@ body{
 }
 .son-father{
     text-align: start;
-    font-size: 30px;
+    font-size: 60px;
     gap: 10px;
     padding: 40px
 }
@@ -46,6 +50,7 @@ body{
     padding: 10px 20px;
     color: white;
     border: 0px;
+    font-size: 25px;
 }
 
 /* pillars section style */
@@ -58,6 +63,7 @@ body{
  .son-1{
     margin-top: 50px;
     margin-bottom: 20px;
+    font-size: 35px;
  }
 .son-2{
     display: flex;
@@ -66,21 +72,25 @@ body{
 }
 .son-2-1{
     padding: 24px;
+    font-size: 20px;
     border-radius: 16px;
     background-color: rgb(255, 255, 255)
 }
 .son-2-2{
     padding: 24px;
+    font-size: 20px;
     border-radius: 16px;
     background-color: rgb(255, 255, 255)
 }
 .son-2-3{
     padding: 24px;
+    font-size: 20px;
     border-radius: 16px;
     background-color: rgb(255, 255, 255)
 }
 .son-2-4{
     padding: 24px;
+    font-size: 20px;
     border-radius: 16px;
     background-color: rgb(255, 255, 255)
 }
@@ -90,3 +100,72 @@ body{
 }
 
 /* father-3 section style */
+.father-3{
+    font-family: Fira Sans;
+}
+.son-3-1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.son-3-2{
+    /* border: 2px solid red; */
+    display: flex;
+    gap: 20px;
+}
+.son-3-0{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: rgba(17, 16, 16, 0.623);
+}
+.son-3-3{
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    padding: 44px;
+    /* border: 1px solid blue; */
+    font-size: 20px;
+}
+.son-3-4{
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+    padding: 44px;
+    /* border: 1px solid blue; */
+    font-size: 20px;
+}
+.son-3-5{
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+    padding: 44px;
+    /* border: 1px solid blue; */
+    font-size: 20px;
+}
+.title{
+    padding: 9px 0px;
+}
+.learn-more-1{
+    border-radius: 8px;
+    background: rgb(84, 144, 245);
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    border: none;
+    color: white;
+}
+.learn-more-2{
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    border: none;
+    color: white;
+}
+.learn-more-3{
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 25px;
+    border: none;
+    color: white;
+}
