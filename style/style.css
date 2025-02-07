@@ -109,7 +109,7 @@ body{
     gap: 30px;
 }
 .son-3-0{
-    font-size: 20px;
+    font-size: 23px;
     margin-bottom: 20px;
     color: rgba(17, 16, 16, 0.623);
 }
@@ -206,8 +206,9 @@ td{
 .son-4-2{
     border-radius: 16px;
     background: rgb(255, 255, 255);
-    padding: 35px;
+    padding: 45px 79px 45px 79px;
     padding-right: 0px;
+    /* overflow-x: hidden; */
 }
 
 .son-4-3{
@@ -226,7 +227,7 @@ td{
 }
 .son-5-2{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     gap: 50px;
     padding: 48px;
     background: rgb(255, 255, 255);
@@ -250,21 +251,32 @@ td{
     margin-bottom: 9px;
     margin-top: 4px;
     color: rgba(128, 128, 128, 0.836);
-    font-size: 20px;
+    font-size: 23px;
 }
 .son-5-2-5{
     border-radius: 8px;
     background: rgb(0, 106, 80);
     padding: 13px 26px 13px 26px;
     color: white;
-    margin-top: 61px;
+    margin-top: 48px;
     border: none;
-    font-size: 18px;
+    font-size: 20px;
+}
+.son-5-2-6{
+    color: rgba(128, 128, 128, 0.897);
+    font-size: 25px;
 }
 .son-5-3{
     display: flex;
-    border: 2px solid blue;
     justify-content: space-between;
+    text-align: left;
+    display: flex;
+    gap: 50px;
+    padding: 48px;
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 
