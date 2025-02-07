@@ -217,6 +217,26 @@ td{
 }
 
 
+/* satelite section style */
+
+.son-5-1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.son-5-2{
+    display: flex;
+    border: 2px solid blue;
+    justify-content: space-between;
+}
+.son-5-2-1{
+    border: 2px solid red;
+}
+/* .son-5-2-2{
+
+} */
+
+
 
 
 
