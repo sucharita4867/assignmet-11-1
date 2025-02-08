@@ -360,26 +360,39 @@ td{
     padding: 80px 100px 80px 100px;
     margin: 60px 0px 60px 0px;
 }
-
-
-
-
-
-
-
-
-
-
-
+.son-7-1{
+    font-size: 40px;
+}
+.son-7-2{
+    font-size: 21px;
+    margin: 8px 420px 0px 420px;
+    color: rgba(0, 0, 0, 0.575);
+}
+.son-7-3{
+    font-size: 20px;
+    padding: 10px 270px 10px 26px;
+    margin: 15px 0px 15px 0px;
+    border-radius: 8px 0px 0px 8px;
+}
+.son-7-4{
+    border-radius: 0px 8px 8px 0px;
+    background: rgb(0, 106, 80);
+    padding: 12px 26px 12px 26px;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+.son-7-5{
+    font-size: 19px;
+    color: rgba(0, 0, 0, 0.575);
+}
 
 /* footer-section style */
 #footer-section{
-    /* display: contents; */
     text-align: center;
     margin-top: 50px;
     background: rgb(255, 255, 255);
     padding: 60px 160px 60px 160px;
-    /* border-bottom: ; */
 }
 .footer-title{
     border-bottom: 1px solid rgba(128, 128, 128, 0.521);
@@ -387,4 +400,9 @@ td{
 }
 .footer-icon{
     padding: 30px 0px 0px 0px;
+    gap: 90px;
+}
+.x{
+    gap: 80px;
+    margin: 0px 10px 0px 10px;
 }
