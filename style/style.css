@@ -333,7 +333,7 @@ td{
     text-align: center;
     background-color: white;
     padding: 18px 25px;
-    margin: 20px 418px 20px 418px;
+    margin: 25px 418px 25px 418px;
     font-size: 25px;
     border-radius: 9px;
     color: rgba(128, 128, 128, 0.438);
@@ -343,13 +343,22 @@ td{
     background: rgb(0, 106, 80);
     padding: 13px 26px 13px 26px;
     color: white;
-    margin-top: 18px;
+    margin-top: 25px;
     border: none;
     font-size: 20px;
 }
 .son-6-8{
     display: flex;
     justify-content: center;
+}
+
+/* Subscribe section style */
+#father-7{
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    text-align: center;
+    padding: 80px 100px 80px 100px;
+    margin: 60px 0px 60px 0px;
 }
 
 
