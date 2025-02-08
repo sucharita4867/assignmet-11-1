@@ -199,9 +199,10 @@ body{
 }
 
 td{
-    border: 1px solid black;
+    border: 1px solid rgba(0, 0, 0, 0.404);
     font-size: 35px;
     padding: 20px;
+    justify-content: space-between
 }
 .son-4-2{
     border-radius: 16px;
@@ -214,7 +215,20 @@ td{
 .son-4-3{
     border-collapse: collapse;
     text-align: center;
-    /* justify-content: center; */
+    justify-content: space-between
+}
+.son-4-4{
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(198, 228, 214);
+}
+.son-4-5{
+    font-size: 30px;
+    padding: 10px;
+    background: rgb(198, 228, 214);
+    border-radius: 4px;
+    border-color: gray;
+    border-bottom-color: gray;
 }
 
 
@@ -278,6 +292,23 @@ td{
     margin-bottom: 30px;
     margin-top: 30px;
 }
+/* taka section style */
+.son-6-1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 35px;
+    text-align: center;
+}
+.son-6-2{
+    font-size: 23px;
+    margin-bottom: 20px;
+    color: rgba(17, 16, 16, 0.623);
+    text-align: center;
+    padding: 0px 60px 0px 60px;
+}
+
+
+
 
 
 
