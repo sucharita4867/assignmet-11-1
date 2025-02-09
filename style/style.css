@@ -202,8 +202,8 @@ main{
 /* table section style */
 
 td{
-    border: 1px solid black;
     padding: 15px 200px 15px 6px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
     font-size: 16px;
 }
 .son-4-1{
@@ -224,7 +224,20 @@ td{
     border-collapse: collapse;
 }
 .son-4-4{
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(198, 228, 214);
+}
+.son-4-5{
+    border: 2px solid red;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid rgb(14, 14, 14);
+    border-radius: 4px;
+    background: rgb(198, 228, 214);
+    /* margin: 24px 0px; */
+    padding: 6px 14px;
 }
 
 
