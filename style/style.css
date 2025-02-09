@@ -16,6 +16,7 @@ main{
 }
 .peragraph{
     color: rgba(128, 128, 128, 0.699);
+    font-size: 16px;
 }
 #navber{
     display: flex;
@@ -120,16 +121,16 @@ main{
     gap: 30px;
 }
 .son-3-0{
-    font-size: 18px;
+    /* font-size: 18px; */
     margin-bottom: 20px;
     color: rgba(17, 16, 16, 0.623);
 }
 .son-3-3{
     border-radius: 16px;
     background: rgba(84, 144, 245, 0.2);
-    padding: 44px;
+    padding: 41px;
 
-    font-size: 18px;
+    font-size: 16px;
 }
 .son-3-4{
     border-radius: 16px;
@@ -153,8 +154,8 @@ main{
     border-radius: 8px;
     background: rgb(84, 144, 245);
     padding: 10px;
-    margin-top: 20px;
-    font-size: 20px;
+    margin-top: 12px;
+    font-size: 17px;
     border: none;
     color: white;
 }
@@ -162,8 +163,8 @@ main{
     border-radius: 8px;
     background: rgb(9, 161, 92);
     padding: 10px;
-    margin-top: 20px;
-    font-size: 20px;
+    margin-top: 19px;
+    font-size: 18px;
     border: none;
     color: white;
 }
@@ -171,8 +172,8 @@ main{
     border-radius: 8px;
     background: rgb(255, 194, 57);
     padding: 10px;
-    margin-top: 20px;
-    font-size: 20px;
+    margin-top: 19px;
+    font-size: 18px;
     border: none;
     color: white;
 }
@@ -189,7 +190,7 @@ main{
 .son-3-6-1{
     background-image: url("../assets/quote-bg.png");
     background-repeat: no-repeat;
-    padding: 20px 0px;
+    padding: 18px 0px;
     color: rgba(128, 128, 128, 0.836);
 }
 .son-3-6-1-0{
@@ -203,49 +204,16 @@ main{
 
 /* table section style */
 
+td{
+border: 1px solid black;
+}
 .son-4-1{
     margin-top: 50px;
     margin-bottom: 20px;
     font-size: 26px;
 }
-
-.son-4-6{
-    border: 1px solid rgba(0, 0, 0, 0.404);
-    font-size: 15px;
-    padding: 13px;
-    justify-content: space-between;
-    text-align: start;
-}
-.son-4-2{
-    border-radius: 16px;
-    background: rgb(255, 255, 255);
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-}
-
 .son-4-3{
     border-collapse: collapse;
-    text-align: center;
-    width: 100%;
-    justify-content: space-between;
-}
-.son-4-4{
-    /* box-sizing: border-box; */
-    border: 1px solid rgba(14, 14, 14, 0.15);
-    background: rgb(198, 228, 214);
-    /* font-size: 49px; */
-    border: 2px solid red;
-
-}
-.son-4-5{
-    font-size: 18px;
-    padding: 9px;
-    background: rgb(198, 228, 214);
-    border-radius: 4px;
-    border-color: gray;
-    border-bottom-color: gray;
-    /* margin: 20px; */
 }
 
 
