@@ -120,7 +120,7 @@ main{
     gap: 30px;
 }
 .son-3-0{
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 20px;
     color: rgba(17, 16, 16, 0.623);
 }
@@ -202,14 +202,42 @@ main{
 }
 
 /* table section style */
-/* new  */
+
 .son-4-1{
     margin-top: 50px;
     margin-bottom: 20px;
-    font-size: 30px;
+    font-size: 26px;
 }
 
-/* old */
+.son-4-6{
+    border: 1px solid rgba(0, 0, 0, 0.404);
+    font-size: 15px;
+    padding: 13px;
+    justify-content: space-between;
+    text-align: start;
+}
+.son-4-2{
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.son-4-3{
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+    justify-content: space-between;
+}
+.son-4-4{
+    /* box-sizing: border-box; */
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(198, 228, 214);
+    /* font-size: 49px; */
+    border: 2px solid red;
+
+}
 .son-4-5{
     font-size: 18px;
     padding: 9px;
@@ -244,30 +272,31 @@ main{
 .son-5-2-2{
     color: rgba(0, 0, 0, 0.733);
     font-size: 25px;
-    margin-bottom: 10px;
+    margin-bottom: 2px;
     margin-top: 6px;
 }
 .son-5-2-3{
-    margin-bottom: 9px;
+    /* margin-bottom: 9px; */
+    font-size: 18px;
 }
 .son-5-2-4{
     margin-bottom: 9px;
-    margin-top: 4px;
+    /* margin-top: 4px; */
     color: rgba(128, 128, 128, 0.836);
-    font-size: 20px;
+    font-size: 18px;
 }
 .son-5-2-5{
     border-radius: 8px;
     background: rgb(0, 106, 80);
     padding: 13px 26px 13px 26px;
     color: white;
-    margin-top: 48px;
+    margin-top: 35px;
     border: none;
     font-size: 17px;
 }
 .son-5-2-6{
     color: rgba(128, 128, 128, 0.897);
-    font-size: 20px;
+    font-size: 18px;
 }
 .son-5-3{
     display: flex;
@@ -285,11 +314,11 @@ main{
 .son-6-1{
     margin-top: 50px;
     margin-bottom: 20px;
-    font-size: 30px;
+    font-size: 32px;
     text-align: center;
 }
 .son-6-2{
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 20px;
     color: rgba(17, 16, 16, 0.623);
     text-align: center;
@@ -299,31 +328,31 @@ main{
     text-align: center;
 }
 .son-6-4{
-    font-size: 35px;
+    font-size: 30px;
     padding: 30px;
     font-family: Fira Sans;
     border: 1px solid rgba(128, 128, 128, 0.253);
     border-radius: 12px;
     background-color: white;
-    margin-left: 28px;
+    margin-left: 24px;
 
 }
 .son-6-5{
     background: rgb(198, 228, 214);
-    font-size: 35px;
+    font-size: 30px;
     padding: 30px;
     font-family: Fira Sans;
     border: 1px solid rgba(128, 128, 128, 0.253);
     border-radius: 12px;
-    margin-left: 28px;
+    margin-left: 24px;
 
 }
 .son-6-6{
     text-align: center;
     background-color: white;
     padding: 18px 25px;
-    margin: 25px 418px 25px 418px;
-    font-size: 20px;
+    margin: 25px 418px 5px 418px;
+    font-size: 18px;
     border-radius: 9px;
     color: rgba(128, 128, 128, 0.438);
 }
@@ -332,7 +361,7 @@ main{
     background: rgb(0, 106, 80);
     padding: 13px 26px 13px 26px;
     color: white;
-    margin-top: 25px;
+    margin-top: 20px;
     border: none;
     font-size: 18px;
 }
@@ -346,22 +375,23 @@ main{
     border-radius: 24px;
     background: rgb(198, 228, 214);
     text-align: center;
-    padding: 80px 100px 80px 100px;
+    padding: 43px 100px 43px 100px;
     margin: 60px 0px 60px 0px;
 }
 .son-7-1{
-    font-size: 35px;
+    font-size: 30px;
 }
 .son-7-2{
-    /* font-size: 18px; */
-    margin: 8px 420px 0px 420px;
+    font-size: 18px;
+    margin: 8px 170px 0px 170px;
     color: rgba(0, 0, 0, 0.575);
 }
 .son-7-3{
     font-size: 17px;
     padding: 10px 270px 10px 26px;
-    margin: 15px 0px 15px 0px;
+    margin: 12px 0px 12px 0px;
     border-radius: 8px 0px 0px 8px;
+    border: none;
 }
 .son-7-4{
     border-radius: 0px 8px 8px 0px;
@@ -369,7 +399,7 @@ main{
     padding: 12px 26px 12px 26px;
     color: white;
     border: none;
-    font-size: 16px;
+    font-size: 14px;
 }
 .son-7-5{
     font-size: 16px;
